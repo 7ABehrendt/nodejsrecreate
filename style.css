@@ -35,7 +35,7 @@ button:hover{
 #picture1{
     border-color: #fff;
     height:20%;
-    width: 1315px;
+    width: 1300px;
 }
 #picture1:hover{
     border-color: #161;
@@ -72,4 +72,16 @@ article{
     height: 100px;
     width: 300px;
     margin: 0 3%;
+}
+#text3{
+  color: #FFFFFF;
+  font-size: 20px;
+  font-family: Helvetica, serif;
+  text-align: center;
+}
+#text4{
+  color: #FFFFFF;
+  font-size: 20px;
+  font-family: Helvetica, serif;
+  text-align: center;
 }
